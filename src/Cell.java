@@ -1,3 +1,5 @@
-public enum cell {
-    X,O,EMPTY
+public enum Cell {
+    X,
+    O,
+    EMPTY
 }
